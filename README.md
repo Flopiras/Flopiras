@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JAVA<br>❤️ I love <coding> and eating pizza! 🍕</p>
+<p align="left">📚 I'm currently learning JAVA<br>❤️ I love coding and eating pizza! 🍕</p>
 
 ###
 
